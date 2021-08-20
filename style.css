@@ -661,7 +661,7 @@ button:focus {
         font-size: 1rem;
         letter-spacing: 0.1rem;
         word-spacing: 1rem;
-        font-size: 50px;
+        font-size: 40px;
         z-index: 1;
     }
     #body-header{
@@ -672,9 +672,15 @@ button:focus {
     #name-social-container{
         margin-top: 8vh;    
     }
+	.social-icons li a i{
+  	padding: 10px;
+  	font-size: 1rem;
+  	
+      
+  }
     #my-image{
-        height: 20rem;
-        width: 20rem;
+        height: 18rem;
+        width: 18rem;
         margin-top: -20vh;
     }
     #about-para {
